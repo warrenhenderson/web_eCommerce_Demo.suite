@@ -1,0 +1,23 @@
+﻿Global UserList
+Global SiteAddress
+Global DataPath
+
+put any item of UserList into CurrentUser
+Repeat for each line of file (DataPath & "users.csv")
+	if item 1 of it equals CurrentUser
+		insert it as a list split by comma into UserCredentials
+	end if
+end repeat
+
+DoubleClick "ChromeIcon"
+Click (Image:"AddressBar", WaitFor:10)
+TypeText SiteAddress, Return
+Click (Image:"Login", WaitFor:8)
+Click (Image:"Email", WaitFor:8)
+TypeText (item 6 of UserCredentials)
+Click (Image:"Password", WaitFor:8)
+TypeText (item 7 of UserCredentials)
+Click (Image:"LoginButton", WaitFor:8)
+
+
+

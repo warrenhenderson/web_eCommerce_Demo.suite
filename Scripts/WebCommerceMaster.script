@@ -1,0 +1,21 @@
+﻿global SiteAddress
+global UserList
+global SearchItems
+
+put "http://10.1.11.168:14123" into SiteAddress
+
+if RunningFromCommandLine() is false then
+	run SuperSlower 
+end if
+runwithnewresults DataLoading
+runwithnewresults UserLogin
+runwithnewresults SearchAndCart
+runwithnewresults BuyItem
+run Cleanup
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-11 09:08:55.744 -0700,"Success",0:00:44,0,0,0,"20141211_090855.744/LogFile.txt","","",1
+2014-12-12 10:10:05.325 -0700,"Failure",0:00:00,1,0,1,"20141212_101005.325/LogFile.txt","","No Remote Connection -- imagefound Error - Remote Connection Unavailable",0
+2014-12-12 10:12:04.984 -0700,"Success",0:00:43,0,0,0,"20141212_101204.984/LogFile.txt","","",1
+2014-12-12 10:59:44.948 -0700,"Success",0:00:37,0,0,0,"20141212_105944.948/LogFile.txt","","",1
+2014-12-12 13:52:47.023 -0700,"Success",0:00:50,0,0,0,"20141212_135247.023/LogFile.txt","","",1

@@ -1,0 +1,4 @@
+﻿2014-12-12 10:10:05.242 -0700	START		Running SearchAndCart.script	11	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.250 -0700	Exception		Remote Connection Unavailable	3	on_searchandcart	SearchAndCart.script
+2014-12-12 10:10:05.254 -0700	EndTestCase		(Duration:"0.009", Errors:"1", Exceptions:"1", StartTime:"2014-12-12 10:10:05 -0700", Successes:"0", TestCase:"SearchAndCart.script", Warnings:"0")	11	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.298 -0700	FAILURE		No Remote Connection click Error - Remote Connection Unavailable -- Execution Time 0:00:00 SearchAndCart.script	11	on_webcommercemaster	WebCommerceMaster.script

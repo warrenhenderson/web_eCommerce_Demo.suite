@@ -1,0 +1,4 @@
+﻿2014-12-12 10:10:05.124 -0700	START		Running UserLogin.script	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.173 -0700	Exception		Remote Connection Unavailable	12	on_userlogin	UserLogin.script
+2014-12-12 10:10:05.178 -0700	EndTestCase		(Duration:"0.05", Errors:"1", Exceptions:"1", StartTime:"2014-12-12 10:10:05 -0700", Successes:"0", TestCase:"UserLogin.script", Warnings:"0")	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.198 -0700	FAILURE		No Remote Connection doubleclick Error - Remote Connection Unavailable -- Execution Time 0:00:00 UserLogin.script	10	on_webcommercemaster	WebCommerceMaster.script

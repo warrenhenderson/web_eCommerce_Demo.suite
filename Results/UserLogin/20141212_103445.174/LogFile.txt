@@ -1,0 +1,8 @@
+﻿2014-12-12 10:34:45.178 -0700	START		Running UserLogin.script	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:34:45.904 -0700	doubleclick	ChromeIcon	at (38, 134)	12	on_userlogin	UserLogin.script
+2014-12-12 10:34:47.447 -0700	click	AddressBar	at (154, 40)	13	on_userlogin	UserLogin.script
+2014-12-12 10:34:48.399 -0700	typetext		http://10.1.11.168:14123[return]	14	on_userlogin	UserLogin.script
+2014-12-12 10:34:50.537 -0700	click	Login	at (755, 138)	15	on_userlogin	UserLogin.script
+2014-12-12 10:35:01.745 -0700	Exception	Email	No Image Found On Screen: "Email"	16	on_userlogin	UserLogin.script
+2014-12-12 10:35:01.764 -0700	EndTestCase		(Duration:"16.584", Errors:"1", Exceptions:"1", StartTime:"2014-12-12 10:34:45 -0700", Successes:"0", TestCase:"UserLogin.script", Warnings:"0")	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:35:01.767 -0700	ABORTED		Execution Time 0:00:16 UserLogin.script	10	on_webcommercemaster	WebCommerceMaster.script

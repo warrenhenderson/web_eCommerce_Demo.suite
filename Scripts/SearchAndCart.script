@@ -1,0 +1,29 @@
+﻿Global SearchItems
+
+Click (Image:"Searchstore", WaitFor:8)
+TypeText (any item of SearchItems), return
+Click "FirstItemLocation"
+Repeat 20 times 
+	if ImageFound(Image:"AddToCartButton", WaitFor:4)
+	then
+		Click FoundImageLocation()
+		exit repeat
+	else
+		TypeText downArrow repeated 5 times
+	end if
+end repeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

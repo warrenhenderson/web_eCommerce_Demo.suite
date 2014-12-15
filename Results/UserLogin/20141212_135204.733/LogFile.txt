@@ -1,0 +1,13 @@
+﻿2014-12-12 13:52:04.735 -0700	START		Running UserLogin.script	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 13:52:06.702 -0700	doubleclick	ChromeIcon	at (896, 550)	12	on_userlogin	UserLogin.script
+2014-12-12 13:52:10.485 -0700	click	AddressBar	at (154, 40)	13	on_userlogin	UserLogin.script
+2014-12-12 13:52:14.713 -0700	typetext		http://10.1.11.168:14123[return]	14	on_userlogin	UserLogin.script
+2014-12-12 13:52:18.515 -0700	click	Login	at (755, 138)	15	on_userlogin	UserLogin.script
+2014-12-12 13:52:21.820 -0700	click	Email	at (739, 428)	16	on_userlogin	UserLogin.script
+2014-12-12 13:52:25.399 -0700	typetext		email30@gmail.com	17	on_userlogin	UserLogin.script
+2014-12-12 13:52:27.845 -0700	click	Password	at (761, 467)	18	on_userlogin	UserLogin.script
+2014-12-12 13:52:30.855 -0700	typetext		password30	19	on_userlogin	UserLogin.script
+2014-12-12 13:52:33.523 -0700	click	LoginButton	at (893, 587)	20	on_userlogin	UserLogin.script
+2014-12-12 13:52:33.530 -0700	LogError		Text	22	on_userlogin	UserLogin.script
+2014-12-12 13:52:33.556 -0700	EndTestCase		(Duration:"28.814", Errors:"1", Exceptions:"0", StartTime:"2014-12-12 13:52:04 -0700", Successes:"0", TestCase:"UserLogin.script", Warnings:"0")	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 13:52:33.870 -0700	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:29 UserLogin.script	10	on_webcommercemaster	WebCommerceMaster.script

@@ -1,0 +1,6 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+UserLogin,Failure,6,6,2014-12-11 09:08:34 -0700,2014-12-12 13:52:04 -0700,0:00:00
+WebCommerceMaster,Failure,6,2,2014-12-11 09:08:34 -0700,2014-12-12 15:29:31 -0700,0:01:12
+SearchAndCart,Success,5,1,2014-12-11 09:08:49 -0700,2014-12-12 13:52:33 -0700,0:00:07
+BuyItem,Success,5,1,2014-12-11 09:08:55 -0700,2014-12-12 13:52:47 -0700,0:00:43
+DataLoading,Success,3,0,2014-12-12 10:34:45 -0700,2014-12-12 13:52:04 -0700,0:00:00

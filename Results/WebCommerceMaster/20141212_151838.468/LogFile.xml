@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="WebCommerceMaster.script" package="web_eCommerce_Demo.suite" timestamp="2014-12-12 15:18:38.468 -0700"
+ tests="1" successes="(null)" errors="(null)" time="nan">
+  <properties>
+   <property name="RunDate" value="2014-12-12 15:18:38.468 -0700"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="WebCommerceMaster.script" assertions="1" successes="0" errors="1" time="169.134">
+  </testcase>
+ </testsuite>
+</testsuites>

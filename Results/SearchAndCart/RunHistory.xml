@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="SearchAndCart">
+ <run>
+  <RunDate>2014-12-11 09:08:49.833 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.864000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141211_090849.833/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 10:10:05.240 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20141212_101005.240/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 10:11:58.551 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>6.402000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_101158.551/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 10:59:39.567 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.322000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_105939.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 13:52:33.874 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>13.069000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_135233.874/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

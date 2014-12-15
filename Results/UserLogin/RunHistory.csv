@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-11 09:08:34.614 -0700,"Failure",0:00:14,1,0,0,"20141211_090834.614/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2014-12-12 10:10:05.122 -0700,"Failure",0:00:00,1,0,1,"20141212_101005.122/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2014-12-12 10:10:43.376 -0700,"Failure",0:00:17,1,0,0,"20141212_101043.376/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2014-12-12 10:11:49.306 -0700,"Failure",0:00:09,1,0,0,"20141212_101149.306/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2014-12-12 10:59:28.892 -0700,"Failure",0:00:10,1,0,0,"20141212_105928.892/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2014-12-12 13:52:04.733 -0700,"Failure",0:00:28,1,0,0,"20141212_135204.733/LogFile.txt","","Script Error -- Number of Errors logged: 1",0

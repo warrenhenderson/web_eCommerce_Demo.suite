@@ -1,0 +1,13 @@
+﻿global SearchItems
+global UserList
+global DataPath 
+put "C:\Users\Warren.Henderson\Documents\ePF Scripts\web_eCommerce_Demo.suite\Data\" into DataPath 
+
+repeat with each line of file (DataPath & "searchTerms.csv")
+	insert item 1 of it into SearchItems
+end repeat
+
+repeat with each line of file (DataPath & "users.csv")
+	insert item 1 of it into UserList
+end repeat
+

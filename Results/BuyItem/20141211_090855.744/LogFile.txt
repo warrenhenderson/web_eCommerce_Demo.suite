@@ -1,0 +1,40 @@
+﻿2014-12-11 09:08:55.748 -0700	START		Running BuyItem.script	12	on_webcommercemaster	WebCommerceMaster.script
+2014-12-11 09:08:56.083 -0700	imagefound	ShoppingCartButton	found at (821, 139)	2	on_buyitem	BuyItem.script
+2014-12-11 09:08:56.472 -0700	click		at (821, 139)	4	on_buyitem	BuyItem.script
+2014-12-11 09:08:57.814 -0700	imagefound	CheckoutButton	Unable to Find Image CheckoutButton	11	on_buyitem	BuyItem.script
+2014-12-11 09:08:57.816 -0700	scrollwheeldown		moved 1	12	on_buyitem	BuyItem.script
+2014-12-11 09:08:59.370 -0700	imagefound	CheckoutButton	Unable to Find Image CheckoutButton	13	on_buyitem	BuyItem.script
+2014-12-11 09:08:59.372 -0700	scrollwheeldown		moved 1	12	on_buyitem	BuyItem.script
+2014-12-11 09:09:00.252 -0700	imagefound	CheckoutButton	found at (894, 607)	13	on_buyitem	BuyItem.script
+2014-12-11 09:09:00.654 -0700	click	TOSAgreement	at (653, 547)	15	on_buyitem	BuyItem.script
+2014-12-11 09:09:01.563 -0700	click	CheckoutButton	at (894, 607)	16	on_buyitem	BuyItem.script
+2014-12-11 09:09:06.059 -0700	imagefound	Step6Active	Unable to Find Image Step6Active	17	on_buyitem	BuyItem.script
+2014-12-11 09:09:06.835 -0700	imagefound	ContinueButton	found at (112, 495)	18	on_buyitem	BuyItem.script
+2014-12-11 09:09:07.678 -0700	click	ContinueButton	at (112, 495)	21	on_buyitem	BuyItem.script
+2014-12-11 09:09:12.725 -0700	imagefound	Step6Active	Unable to Find Image Step6Active	22	on_buyitem	BuyItem.script
+2014-12-11 09:09:13.557 -0700	imagefound	ContinueButton	found at (112, 664)	18	on_buyitem	BuyItem.script
+2014-12-11 09:09:14.305 -0700	click	ContinueButton	at (112, 664)	21	on_buyitem	BuyItem.script
+2014-12-11 09:09:18.997 -0700	imagefound	Step6Active	Unable to Find Image Step6Active	22	on_buyitem	BuyItem.script
+2014-12-11 09:09:19.831 -0700	imagefound	ContinueButton	found at (112, 689)	18	on_buyitem	BuyItem.script
+2014-12-11 09:09:20.378 -0700	click	ContinueButton	at (112, 689)	21	on_buyitem	BuyItem.script
+2014-12-11 09:09:24.566 -0700	imagefound	Step6Active	Unable to Find Image Step6Active	22	on_buyitem	BuyItem.script
+2014-12-11 09:09:25.801 -0700	imagefound	ContinueButton	Unable to Find Image ContinueButton	18	on_buyitem	BuyItem.script
+2014-12-11 09:09:25.802 -0700	scrollwheeldown		moved 1	19	on_buyitem	BuyItem.script
+2014-12-11 09:09:26.711 -0700	imagefound	ContinueButton	found at (112, 715)	20	on_buyitem	BuyItem.script
+2014-12-11 09:09:26.909 -0700	click	ContinueButton	at (112, 715)	21	on_buyitem	BuyItem.script
+2014-12-11 09:09:31.601 -0700	imagefound	Step6Active	Unable to Find Image Step6Active	22	on_buyitem	BuyItem.script
+2014-12-11 09:09:32.383 -0700	imagefound	ContinueButton	found at (112, 630)	18	on_buyitem	BuyItem.script
+2014-12-11 09:09:33.230 -0700	click	ContinueButton	at (112, 630)	21	on_buyitem	BuyItem.script
+2014-12-11 09:09:33.759 -0700	imagefound	Step6Active	found at (64, 420)	22	on_buyitem	BuyItem.script
+2014-12-11 09:09:35.028 -0700	imagefound	ConfirmOrderButton	Unable to Find Image ConfirmOrderButton	24	on_buyitem	BuyItem.script
+2014-12-11 09:09:35.030 -0700	scrollwheeldown		moved 1	25	on_buyitem	BuyItem.script
+2014-12-11 09:09:36.426 -0700	imagefound	ConfirmOrderButton	Unable to Find Image ConfirmOrderButton	26	on_buyitem	BuyItem.script
+2014-12-11 09:09:36.428 -0700	scrollwheeldown		moved 1	25	on_buyitem	BuyItem.script
+2014-12-11 09:09:38.271 -0700	imagefound	ConfirmOrderButton	Unable to Find Image ConfirmOrderButton	26	on_buyitem	BuyItem.script
+2014-12-11 09:09:38.273 -0700	scrollwheeldown		moved 1	25	on_buyitem	BuyItem.script
+2014-12-11 09:09:39.469 -0700	imagefound	ConfirmOrderButton	Unable to Find Image ConfirmOrderButton	26	on_buyitem	BuyItem.script
+2014-12-11 09:09:39.471 -0700	scrollwheeldown		moved 1	25	on_buyitem	BuyItem.script
+2014-12-11 09:09:40.016 -0700	imagefound	ConfirmOrderButton	found at (109, 652)	26	on_buyitem	BuyItem.script
+2014-12-11 09:09:40.248 -0700	click		at (109, 652)	27	on_buyitem	BuyItem.script
+2014-12-11 09:09:40.251 -0700	EndTestCase		(Duration:"44.5", Errors:"0", Exceptions:"0", StartTime:"2014-12-11 09:08:55 -0700", Successes:"1", TestCase:"BuyItem.script", Warnings:"0")	12	on_webcommercemaster	WebCommerceMaster.script
+2014-12-11 09:09:40.268 -0700	SUCCESS		Execution Time 0:00:45 BuyItem.script	12	on_webcommercemaster	WebCommerceMaster.script

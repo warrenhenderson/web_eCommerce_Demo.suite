@@ -1,0 +1,2 @@
+﻿Click (Image:"LogoutButton", WaitFor:16)
+Click (Image:"CloseChromeButton", WaitFor:8)

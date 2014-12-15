@@ -1,0 +1,5 @@
+﻿2014-12-12 10:10:43.286 -0700	START		Running WebCommerceMaster.script
+2014-12-12 10:10:43.377 -0700	runwithnewresults		UserLogin.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/UserLogin/20141212_101043.376/LogFile.txt)	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:11:00.611 -0700	runwithnewresults		SearchAndCart.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/SearchAndCart/20141212_101100.609/LogFile.txt)	11	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:11:18.602 -0700	EndTestCase		(Duration:"35.314", Errors:"3", Exceptions:"1", StartTime:"2014-12-12 10:10:43 -0700", Successes:"0", TestCase:"WebCommerceMaster.script", Warnings:"0")
+2014-12-12 10:11:18.604 -0700	ABORTED		Execution Time 0:00:35 WebCommerceMaster.script

@@ -1,0 +1,6 @@
+﻿2014-12-12 15:18:38.469 -0700	START		Running WebCommerceMaster.script
+2014-12-12 15:18:38.561 -0700	set		MOUSEMOVESPEED = 6	1	on_superslower	SuperSlower.script
+2014-12-12 15:18:38.562 -0700	set		NEXTKEYDELAY = 0.08	2	on_superslower	SuperSlower.script
+2014-12-12 15:18:38.565 -0700	set		REMOTEWORKINTERVAL = 2.2	3	on_superslower	SuperSlower.script
+2014-12-12 15:21:27.608 -0700	EndTestCase		(Duration:"169.134", Errors:"1", Exceptions:"0", StartTime:"2014-12-12 15:18:38 -0700", Successes:"0", TestCase:"WebCommerceMaster.script", Warnings:"0")
+2014-12-12 15:21:27.610 -0700	ABORTED		Execution Time 0:02:49 WebCommerceMaster.script

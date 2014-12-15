@@ -1,0 +1,4 @@
+﻿2014-12-12 10:10:05.327 -0700	START		Running BuyItem.script	12	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.338 -0700	Exception		Remote Connection Unavailable	2	on_buyitem	BuyItem.script
+2014-12-12 10:10:05.342 -0700	EndTestCase		(Duration:"0.012", Errors:"1", Exceptions:"1", StartTime:"2014-12-12 10:10:05 -0700", Successes:"0", TestCase:"BuyItem.script", Warnings:"0")	12	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.367 -0700	FAILURE		No Remote Connection imagefound Error - Remote Connection Unavailable -- Execution Time 0:00:00 BuyItem.script	12	on_webcommercemaster	WebCommerceMaster.script

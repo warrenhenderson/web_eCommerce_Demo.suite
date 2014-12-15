@@ -1,0 +1,9 @@
+﻿2014-12-12 10:59:28.679 -0700	START		Running WebCommerceMaster.script
+2014-12-12 10:59:28.768 -0700	runwithnewresults		DataLoading.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/DataLoading/20141212_105928.766/LogFile.txt)	9	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:59:28.894 -0700	runwithnewresults		UserLogin.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/UserLogin/20141212_105928.892/LogFile.txt)	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:59:39.569 -0700	runwithnewresults		SearchAndCart.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/SearchAndCart/20141212_105939.567/LogFile.txt)	11	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:59:44.950 -0700	runwithnewresults		BuyItem.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/BuyItem/20141212_105944.948/LogFile.txt)	12	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 11:00:24.614 -0700	click	LogoutButton	at (751, 139)	1	on_cleanup	Cleanup.script
+2014-12-12 11:00:25.524 -0700	click	CloseChromeButton	at (998, 7)	2	on_cleanup	Cleanup.script
+2014-12-12 11:00:25.593 -0700	EndTestCase		(Duration:"56.909", Errors:"1", Exceptions:"0", StartTime:"2014-12-12 10:59:28 -0700", Successes:"4", TestCase:"WebCommerceMaster.script", Warnings:"0")
+2014-12-12 11:00:25.696 -0700	SUCCESS		Execution Time 0:00:57 WebCommerceMaster.script

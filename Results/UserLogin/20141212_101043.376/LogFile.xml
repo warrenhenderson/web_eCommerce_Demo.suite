@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="UserLogin.script" package="web_eCommerce_Demo.suite" timestamp="2014-12-12 10:10:43.376 -0700"
+ tests="1" successes="0" errors="1" time="17.040000">
+  <properties>
+   <property name="RunDate" value="2014-12-12 10:10:43.376 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="UserLogin.script" assertions="1" successes="0" errors="1" time="17.036">
+    <failure type="LogError">Text</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

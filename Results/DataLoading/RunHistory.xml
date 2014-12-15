@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="DataLoading">
+ <run>
+  <RunDate>2014-12-12 10:34:45.114 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.037000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_103445.114/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 10:59:28.766 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.041000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_105928.766/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 13:52:04.648 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.062000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_135204.648/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

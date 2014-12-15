@@ -1,0 +1,7 @@
+﻿2014-12-12 10:10:05.023 -0700	START		Running WebCommerceMaster.script
+2014-12-12 10:10:05.123 -0700	runwithnewresults		UserLogin.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/UserLogin/20141212_101005.122/LogFile.txt)	10	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.241 -0700	runwithnewresults		SearchAndCart.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/SearchAndCart/20141212_101005.240/LogFile.txt)	11	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.326 -0700	runwithnewresults		BuyItem.script (C:/Users/Warren.Henderson/Documents/ePF Scripts/web_eCommerce_Demo.suite/Results/BuyItem/20141212_101005.325/LogFile.txt)	12	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:10:05.384 -0700	Exception		Remote Connection Unavailable	1	on_cleanup	Cleanup.script
+2014-12-12 10:10:05.451 -0700	EndTestCase		(Duration:"0.423", Errors:"4", Exceptions:"4", StartTime:"2014-12-12 10:10:05 -0700", Successes:"0", TestCase:"WebCommerceMaster.script", Warnings:"0")
+2014-12-12 10:10:05.471 -0700	FAILURE		No Remote Connection click Error - Remote Connection Unavailable -- Execution Time 0:00:00 WebCommerceMaster.script

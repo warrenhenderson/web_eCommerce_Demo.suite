@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2014-12-11 09:08:34.513 -0700,"Success",0:01:08,0,0,0,"20141211_090834.513/LogFile.txt","","",1
+2014-12-12 10:10:05.021 -0700,"Failure",0:00:00,1,0,1,"20141212_101005.021/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",0
+2014-12-12 10:10:43.284 -0700,"Running",0:00:00,,,,"20141212_101043.284/LogFile.txt","","",
+2014-12-12 10:11:49.220 -0700,"Success",0:01:02,0,0,0,"20141212_101149.220/LogFile.txt","","",1
+2014-12-12 10:59:28.676 -0700,"Success",0:00:56,0,0,0,"20141212_105928.676/LogFile.txt","","",1
+2014-12-12 13:52:04.576 -0700,"Success",0:01:40,0,0,0,"20141212_135204.576/LogFile.txt","","",1
+2014-12-12 15:18:38.468 -0700,"Running",-2147483648:-2147483648:-8,0,0,0,"20141212_151838.468/LogFile.txt","","",0
+2014-12-12 15:29:31.172 -0700,"Failure",0:00:00,1,0,0,"20141212_152931.172/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'runningcommandline'",0

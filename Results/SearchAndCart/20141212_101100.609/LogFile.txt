@@ -1,0 +1,6 @@
+﻿2014-12-12 10:11:00.613 -0700	START		Running SearchAndCart.script	11	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:11:01.303 -0700	click	Searchstore	at (627, 177)	3	on_searchandcart	SearchAndCart.script
+2014-12-12 10:11:02.072 -0700	typetext		camera[return]	4	on_searchandcart	SearchAndCart.script
+2014-12-12 10:11:18.480 -0700	Exception	FirstItemLocation	No Image Found On Screen: "FirstItemLocation"	5	on_searchandcart	SearchAndCart.script
+2014-12-12 10:11:18.485 -0700	EndTestCase		(Duration:"17.868", Errors:"1", Exceptions:"1", StartTime:"2014-12-12 10:11:00 -0700", Successes:"0", TestCase:"SearchAndCart.script", Warnings:"0")	11	on_webcommercemaster	WebCommerceMaster.script
+2014-12-12 10:11:18.487 -0700	ABORTED		Execution Time 0:00:18 SearchAndCart.script	11	on_webcommercemaster	WebCommerceMaster.script

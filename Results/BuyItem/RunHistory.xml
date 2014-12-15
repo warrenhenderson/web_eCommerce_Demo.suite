@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="BuyItem">
+ <run>
+  <RunDate>2014-12-11 09:08:55.744 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>44.506000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141211_090855.744/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 10:10:05.325 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.016000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20141212_101005.325/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- imagefound Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 10:12:04.984 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>43.477000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_101204.984/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 10:59:44.948 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>37.314000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_105944.948/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2014-12-12 13:52:47.023 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>50.657000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20141212_135247.023/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

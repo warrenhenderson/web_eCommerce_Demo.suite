@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="UserLogin">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>6</NumberOfFails>
+  <FirstRun>2014-12-11 09:08:34 -0700</FirstRun>
+  <LastRun>2014-12-12 13:52:04 -0700</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="WebCommerceMaster">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2014-12-11 09:08:34 -0700</FirstRun>
+  <LastRun>2014-12-12 15:29:31 -0700</LastRun>
+  <TotalTimeOnSuccess>288.088000</TotalTimeOnSuccess>
+ </script>
+ <script name="SearchAndCart">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2014-12-11 09:08:49 -0700</FirstRun>
+  <LastRun>2014-12-12 13:52:33 -0700</LastRun>
+  <TotalTimeOnSuccess>30.657000</TotalTimeOnSuccess>
+ </script>
+ <script name="BuyItem">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2014-12-11 09:08:55 -0700</FirstRun>
+  <LastRun>2014-12-12 13:52:47 -0700</LastRun>
+  <TotalTimeOnSuccess>175.954000</TotalTimeOnSuccess>
+ </script>
+ <script name="DataLoading">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2014-12-12 10:34:45 -0700</FirstRun>
+  <LastRun>2014-12-12 13:52:04 -0700</LastRun>
+  <TotalTimeOnSuccess>0.140000</TotalTimeOnSuccess>
+ </script>
+</statistics>

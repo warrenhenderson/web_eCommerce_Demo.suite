@@ -1,0 +1,27 @@
+﻿Repeat forever
+	if ImageFound(Image:"ShoppingCartButton", WaitFor:1)
+	then
+		Click FoundImageLocation()
+		exit repeat
+	else
+		TypeText pageUp 
+	end if
+end repeat
+
+Repeat Until ImageFound(Image:"CheckoutButton", WaitFor:1)
+	ScrollWheelDown(3)
+end repeat
+
+Click (Image:"TOSAgreement", WaitFor:8)
+Click (Image:"CheckoutButton", WaitFor: 8)
+Repeat until ImageFound(Image:"Step6Active", WaitFor:4)
+	Repeat Until ImageFound(Image:"ContinueButton", WaitFor:1)
+		ScrollWheelDown(3)
+	end repeat
+	Click (Image:"ContinueButton",  WaitFor: 10)
+end repeat
+
+Repeat until ImageFound(Image:"ConfirmOrderButton", WaitFor:1)
+	ScrollWheelDown(3)
+end  repeat
+click FoundImageLocation()
